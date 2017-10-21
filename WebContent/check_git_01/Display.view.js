@@ -16,7 +16,7 @@ sap.ui.jsview("check_git_01.Display", {
 		// create a simple Input field
 		var oInput2 = new sap.ui.commons.TextField({
 			id: 'input2',
-			value : 'Hello World!',
+			value : 'enter value here!',
 			tooltip : 'Change the Text',
 			width : '10em',
 			change : function(){
