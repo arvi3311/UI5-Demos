@@ -34,5 +34,8 @@ sap.ui.controller("check_git_01.Display", {
 //	onExit: function() {
 //
 //	}
+getButtonClick:function(){
+	alert("Welcome to the world of SAPUI5");
+}
 
 });
